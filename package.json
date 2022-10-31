@@ -2,10 +2,10 @@
   "name": "bot",
   "version": "1.0.0",
   "description": "",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "nodemon bot.js",
-    "start": "node bot.js",
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
